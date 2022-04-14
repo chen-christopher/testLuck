@@ -1,7 +1,7 @@
 const app = {
   initialize: () => {
     // const randomRoom = app.generateCode();
-    const randomRoom = "ABDDEF";
+    const randomRoom = "ABEEEG";
     console.log(randomRoom);
     randomName = app.generateName();
     console.log(randomName);
